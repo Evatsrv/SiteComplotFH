@@ -1,0 +1,123 @@
+html.complot{
+  background-image: url("planet-gf5d3518de_1280.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+html.debunk{
+  background-image: url("moon-landing-193761.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+header {
+    
+    width: 100%;
+    
+}
+
+header h1{
+    
+    text-align: center;
+    font-family: Impact, fantasy;
+    background: -webkit-linear-gradient(rgb(45,46,48), rgb(223,213,235));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+header h1 a{
+    
+    font-family: Impact, fantasy;
+    font-size: 45pt;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+}
+
+header h1 a:hover{
+    
+    color: black;
+
+}
+
+body #main_content, #main_content2, #main_content3{
+    
+    margin: auto;
+    width: 90%;
+    
+}
+
+body #main_content p{
+    
+    text-align: justify;
+    
+}
+
+body #main_content3 p{
+    
+    font-size: 16pt;
+    
+}
+
+.nav-item {
+    
+    margin-left: 10px;
+    
+}
+
+#nav_bar{
+    
+    text-align: center;
+    
+}
+
+
+#nav_bar #main_nav ul{
+    
+    display: table;
+    font-family: Impact, fantasy;
+    margin: auto;
+    
+}
+
+#nav_bar #main_nav ul li{
+    
+    float: left;
+    border: solid;
+    border-radius: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    
+}
+
+#nav_bar #main_nav ul li a{
+    
+    font-size: 20pt;
+
+
+}
+
+#nav_bar #main_nav ul li:hover{
+    
+    border-color: darkcyan;
+
+
+}
+
+#homme_qui_marche_sur_lune_tqt_meme_pas_mdr_lol {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 34%;
+    
+}
+
+footer div ul{
+    
+    list-style-type: none;
+    
+}
+
+
